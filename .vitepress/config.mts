@@ -7,15 +7,20 @@ export default defineConfig({
   themeConfig: {
     sidebar: [
       {
+        text: "知识工程",
+        items: [
+          {
+            text: "软件设计原则",
+            link: "/docs/knowledge-engineering/law-of-software",
+          },
+        ],
+      },
+      {
         text: "工程实践反模式",
         items: [
           {
             text: "特性分支：代码混乱到业务失控",
             link: "/docs/before-ai/bad-ai-practice",
-          },
-          {
-            text: "软件设计原则",
-            link: "/docs/before-ai/law-of-software",
           },
         ],
       },
@@ -38,7 +43,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "团队打造",
+        text: "团队知识传递",
         items: [
           {
             text: "Haiven",
