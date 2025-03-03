@@ -52,5 +52,8 @@ export default defineConfig({
         ],
       },
     ],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/JayClock/business-driven-ai" },
+    ],
   },
 });
