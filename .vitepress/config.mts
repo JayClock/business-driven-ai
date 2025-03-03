@@ -10,7 +10,7 @@ export default defineConfig({
         text: "知识工程",
         items: [
           {
-            text: "软件设计原则",
+            text: "软件过程定律",
             link: "/docs/knowledge-engineering/law-of-software",
           },
         ],
@@ -28,7 +28,7 @@ export default defineConfig({
         text: "面向业务",
         items: [
           {
-            text: "履约设计",
+            text: "履约建模",
             link: "/docs/business-oriented/performance-modeling",
           },
         ],
