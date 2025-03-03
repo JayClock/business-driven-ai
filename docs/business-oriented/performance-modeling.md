@@ -84,7 +84,7 @@ class 商品付款确认 #pink {
 ## 利用现实合同理解业务
 
 上面的例子，仅仅是一个线下的现金买卖业务，既没有第三方平台进行管控，也没有移动支付交易模块，显然是难以描述我们现实的软件业务流程的。接下去我们看一下转转的[寄卖服务协议](https://act.zhuanzhuan.com/platform/zz-platform-pages/platformRules/rulesContent?pdfurl=https%3A%2F%2Fdl.zhuanstatic.com%2Ffecommon%2F%E8%BD%AC%E8%BD%AC%E5%AF%84%E5%8D%96%E6%9C%8D%E5%8A%A1%E5%8D%8F%E8%AE%AE-----%E7%8E%B0%E8%A1%8C%E7%89%88%E6%9C%AC--%E6%96%B0%E5%A2%9E.pdf)，是如何规定了参与方在商业活动中所要履行的一系列活动。
-![[Pasted image 20250216215422.png]]
+![contract](contract.png)
 **划重点：现实建模过程中，需要和业务专家或者法务专家一起协作建模与纠正，像本文完全一个人做的建模结果并不能保证符合真实的业务**
 
 在这份协议中，其实包含了两个主要的合同上下文：
