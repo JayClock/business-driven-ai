@@ -34,7 +34,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "代码实现",
+        text: "架构指导",
         items: [
           {
             text: "Smart Domain",
@@ -43,7 +43,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "团队知识传递",
+        text: "知识传递",
         items: [
           {
             text: "Haiven",
