@@ -13,13 +13,17 @@ export default defineConfig({
             text: "软件过程定律",
             link: "/docs/knowledge-engineering/law-of-software",
           },
+          {
+            text: "知识来源",
+            link: "/docs/knowledge-engineering/books",
+          },
         ],
       },
       {
         text: "工程实践反模式",
         items: [
           {
-            text: "特性分支：代码混乱到业务失控",
+            text: "特性分支",
             link: "/docs/before-ai/bad-ai-practice",
           },
         ],
@@ -53,7 +57,10 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/JayClock/business-driven-ai" },
+      {
+        icon: "github",
+        link: "https://github.com/JayClock/business-driven-ai",
+      },
     ],
   },
 });

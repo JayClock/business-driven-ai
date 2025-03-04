@@ -1,0 +1,2 @@
+# 工程实践书单
+- [《The laws of software process: a new model for the production and management of software》](https://z-library.sk/book/486412/5266f0/the-laws-of-software-process-a-new-model-for-the-production-and-management-of-software.html)
