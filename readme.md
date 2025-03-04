@@ -5,3 +5,6 @@
 # 本文定位
 
 一个中小企业可以参考的例子，大企业找 thoughtworks 这样的咨询公司。也许未来会变成资源聚集地。
+
+# 关于我
+[一个普普通通的前端](https://www.jayclock-garden.top)
