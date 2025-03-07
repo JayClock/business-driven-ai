@@ -10,3 +10,11 @@ hero:
     - theme: brand
       text: 开始
       link: /docs/before-ai/bad-ai-practice
+
+features:
+- title: 小型公司可落地
+  details: 涵盖一个项目的 0-1 全流程落地指南
+- title: 中型公司可参考
+  details: 把整体流程在企业小团队中试点，并处理遗留系统
+- title: 大型公司可引流
+  details: 找 thoughtworks
