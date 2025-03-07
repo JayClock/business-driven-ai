@@ -4,6 +4,11 @@
 ## 定律来源
 《The Laws of Software Process: A New Model for the Production and Management of Software》
 
+# 为什么有这个网站
+- [老程序员有责任培养新人拯救行业](https://www.infoq.cn/article/dgkw2y83r09pokialjcw)
+- 我不是文中的老程序员，但我可以是
+- 半吊子，干中学
+
 ## AI 时代的软件工程师
 [《研发知识工程落地》](https://www.bilibili.com/video/BV1yoPse1ELs?spm_id_from=333.788.videopod.sections&vd_source=d0cdeaa6ca901846508a3189e34f1114)
 - 不再只是代码编写者，而是**AI 赋能的知识工程师**
@@ -12,6 +17,7 @@
 
 ## AI 落地的困境
 - [工程实践不规范](https://www.thoughtworks.com/insights/blog/generative-ai/tdd-and-pair-programming-the-perfect-companions-for-copilot)
+- [程序员工程能力不足](https://mp.weixin.qq.com/s/SoINh2rOt3hezP8nvcrqFg)
 
 ## 技术之外，全流程参与
 [《为什么要成为全流程序员，而非全栈程序员？》](https://www.bilibili.com/video/BV1Yq4y1C7z7/?spm_id_from=333.1387.favlist.content.click&vd_source=d0cdeaa6ca901846508a3189e34f1114)
