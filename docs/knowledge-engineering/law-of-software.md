@@ -7,7 +7,12 @@
 # 为什么有这个网站
 - [老程序员有责任培养新人拯救行业](https://www.infoq.cn/article/dgkw2y83r09pokialjcw)
 - 我不是文中的老程序员，但我可以是
-- 半吊子，干中学
+- 半吊子，干中学，把学习中参考的资料整理出一个路径。互联网都是以技术名词路径为主，我这个是以工程实践路径为主
+
+# 一个类似的网站
+- [AI 辅助软件工程：实践与案例解析](https://aise.phodal.com/index.html)
+- 有什么区别：工具不缺，缺的是理解工程实践的人，最好有一个项目把每个开发流程串起来，每一个流程节点用一个开源工具打个样例
+- 为什么不在上面提 pr：菜，而且一年域名 80 块钱已经花了，还是得用
 
 ## AI 时代的软件工程师
 [《研发知识工程落地》](https://www.bilibili.com/video/BV1yoPse1ELs?spm_id_from=333.788.videopod.sections&vd_source=d0cdeaa6ca901846508a3189e34f1114)
